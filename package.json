@@ -1,0 +1,22 @@
+{
+  "name": "Eat A Burger Seualize APP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server.js",
+  "scripts": {
+    "test": "hjj"
+  },
+  "author": "Hardeep",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.2",
+    "node-spotify-api": "^1.0.6",
+    "request": "^2.81.0",
+    "sequelize": "^4.10.3"
+  }
+}
